@@ -83,3 +83,6 @@ async def websocket_cozinha(websocket: WebSocket):
 
 
 #https://github.com/juniopedro/API-RAIZES-DO-NORDESTE.git
+
+#https://github.com/juniopedro/API-RAIZES-DO-NORDESTE.git
+
